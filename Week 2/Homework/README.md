@@ -13,4 +13,3 @@ Create a calculator from the requirements below! (Import Scanner and Math)
 ```
 1. A .java file
 2. The calculation(s)' answers
-```
